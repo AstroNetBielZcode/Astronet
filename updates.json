@@ -2,12 +2,12 @@
   "updates": [
     {
       "version": "1.0",
-      "url": "https://github.com/usuario/repo/raw/main/updates/update-1.0.zip",
+      "url": "https://raw.githubusercontent.com/AstroNetBielZcode/Astronet/refs/heads/main/astronet1.0.0.zip",
       "description": "Correções de bugs e melhorias."
     },
     {
       "version": "1.1",
-      "url": "https://github.com/usuario/repo/raw/main/updates/update-1.1.zip",
+      "url": "https://raw.githubusercontent.com/AstroNetBielZcode/Astronet/refs/heads/main/astronet1.1.0.zip",
       "description": "Nova funcionalidade adicionada."
     }
   ]
